@@ -5,3 +5,4 @@
 	Git tracks changes.
 	Creating a new branch is quick and simple.
 	Let us see it.
+	I must become the person who I want to be.
